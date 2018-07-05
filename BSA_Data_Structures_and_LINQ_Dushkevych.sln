@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSA_Data_Structures_and_LINQ_Dushkevych", "BSA_Data_Structures_and_LINQ_Dushkevych\BSA_Data_Structures_and_LINQ_Dushkevych.csproj", "{D17AB959-0CB0-47DB-91B3-EB5E136AAB1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D17AB959-0CB0-47DB-91B3-EB5E136AAB1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17AB959-0CB0-47DB-91B3-EB5E136AAB1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17AB959-0CB0-47DB-91B3-EB5E136AAB1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17AB959-0CB0-47DB-91B3-EB5E136AAB1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB4788CC-0403-47CA-9085-FB8003BA8878}
+	EndGlobalSection
+EndGlobal

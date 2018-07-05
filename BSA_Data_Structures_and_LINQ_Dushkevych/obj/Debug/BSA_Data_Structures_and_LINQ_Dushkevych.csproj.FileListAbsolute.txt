@@ -1,0 +1,9 @@
+C:\Andrii\Projects\BSA18\L1. Data Structures and LINQ\BSA_Data_Structures_and_LINQ_Dushkevych\BSA_Data_Structures_and_LINQ_Dushkevych\obj\Debug\BSA_Data_Structures_and_LINQ_Dushkevych.csprojResolveAssemblyReference.cache
+C:\Andrii\Projects\BSA18\L1. Data Structures and LINQ\BSA_Data_Structures_and_LINQ_Dushkevych\BSA_Data_Structures_and_LINQ_Dushkevych\obj\Debug\BSA_Data_Structures_and_LINQ_Dushkevych.csproj.CoreCompileInputs.cache
+C:\Andrii\Projects\BSA18\L1. Data Structures and LINQ\BSA_Data_Structures_and_LINQ_Dushkevych\BSA_Data_Structures_and_LINQ_Dushkevych\bin\Debug\BSA_Data_Structures_and_LINQ_Dushkevych.exe.config
+C:\Andrii\Projects\BSA18\L1. Data Structures and LINQ\BSA_Data_Structures_and_LINQ_Dushkevych\BSA_Data_Structures_and_LINQ_Dushkevych\bin\Debug\BSA_Data_Structures_and_LINQ_Dushkevych.exe
+C:\Andrii\Projects\BSA18\L1. Data Structures and LINQ\BSA_Data_Structures_and_LINQ_Dushkevych\BSA_Data_Structures_and_LINQ_Dushkevych\bin\Debug\BSA_Data_Structures_and_LINQ_Dushkevych.pdb
+C:\Andrii\Projects\BSA18\L1. Data Structures and LINQ\BSA_Data_Structures_and_LINQ_Dushkevych\BSA_Data_Structures_and_LINQ_Dushkevych\bin\Debug\Newtonsoft.Json.dll
+C:\Andrii\Projects\BSA18\L1. Data Structures and LINQ\BSA_Data_Structures_and_LINQ_Dushkevych\BSA_Data_Structures_and_LINQ_Dushkevych\bin\Debug\Newtonsoft.Json.xml
+C:\Andrii\Projects\BSA18\L1. Data Structures and LINQ\BSA_Data_Structures_and_LINQ_Dushkevych\BSA_Data_Structures_and_LINQ_Dushkevych\obj\Debug\BSA_Data_Structures_and_LINQ_Dushkevych.exe
+C:\Andrii\Projects\BSA18\L1. Data Structures and LINQ\BSA_Data_Structures_and_LINQ_Dushkevych\BSA_Data_Structures_and_LINQ_Dushkevych\obj\Debug\BSA_Data_Structures_and_LINQ_Dushkevych.pdb
